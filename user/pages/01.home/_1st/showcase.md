@@ -1,11 +1,12 @@
 ---
-title: Homepage Showcase
+title: 'Homepage Showcase'
 menu: Top
 buttons:
-    - text: Get started now!
-      url: /start
-      primary: true
+    -
+        text: 'Get started now!'
+        url: /start
+        primary: true
 ---
 
-# Foodsaving Worldwide
-## A distributed, global grassroots movement against food waste.
+# Maträddning i Sverige
+## Ett koncept och en rörelse mot matsvinnet.

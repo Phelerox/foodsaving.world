@@ -1,11 +1,7 @@
 ---
-title: Foodsaving Worldwide
-menu: Home
-onpage_menu: false
-body_classes: "modular header-image fullwidth"
-
+title: 'Maträddning i Sverige'
 content:
-    items: @self.modular
+    items: '@self.modular'
     order:
         by: default
         dir: asc
@@ -14,8 +10,11 @@ content:
             - _2nd
             - _3rd
             - _4th
-
+body_classes: 'modular header-image fullwidth'
+menu: Hem
 routes:
     aliases:
-    - '/en'
+        - /en
+onpage_menu: false
 ---
+

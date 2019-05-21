@@ -1,6 +1,17 @@
-title: FSWW
+title: 'Maträddning i Sverige'
+default_lang: sv
 author:
-  name: Janina Abels
-  email: 'djahnie@disroot.org'
+  name: Bruno
+  email: bruno@solikyl.se
+taxonomies:
+  - category
+  - tag
 metadata:
-    description: 'Foodsaving worldwide: Networking and coaching for a grassroots approach to end food waste'
+  description: 'Rädda mat som skulle slängas genom dela ut till obegränsat'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

@@ -20,3 +20,13 @@ user/themes/antimatter/css-compiled/*
 css-compiled/*
 user/themes/antimatter/.sass-cache/*
 user/themes/antimatter/css-compiled/*
+
+#Server Specific
+webserver-configs
+.htaccess
+robots.txt
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE.txt
+backup/*

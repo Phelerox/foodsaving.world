@@ -1,0 +1,20 @@
+state: enabled
+email: bruno@solikyl.se
+fullname: 'Bruno M C'
+title: 'Maträddare / admin'
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$vAWSK7jVSWtuSJuKvmjGSebJNXE0UQUsuVpkUeizRAhv7e7EsS8Xy
+language: en
+twofa_enabled: false
+twofa_secret: HG6AJG7IC3BQARH535QMT6WKGA4QMHU2
+avatar:
+  user/accounts/avatars/E8RLMu3Oq7gT4va.jpg:
+    name: E8RLMu3Oq7gT4va.jpg
+    type: image/jpeg
+    size: 696692
+    path: user/accounts/avatars/E8RLMu3Oq7gT4va.jpg

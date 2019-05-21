@@ -1,19 +1,18 @@
 ---
-title: Start your own community
-menu: Start your group
-onpage_menu: false
-body_classes: "modular header-image fullwidth"
-
+title: 'Börja i din ort'
 content:
-    items: @self.modular
+    items: '@self.modular'
     order:
         by: default
         dir: asc
         custom:
             - _1st
             - _2nd
-
+body_classes: 'modular header-image fullwidth'
+menu: 'Börja i din ort'
 routes:
     aliases:
-    - '/en/startcommunity'
+        - /en/startcommunity
+onpage_menu: false
 ---
+

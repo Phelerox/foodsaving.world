@@ -1,7 +1,7 @@
 ---
-title: Community Showcase
+title: 'Community Showcase'
 menu: Top
 ---
 
-# Get started!
-## Build your foodsaving initiative now!
+# Börja i din ort!
+## Skapa din maträddningsinitiativ nu!
